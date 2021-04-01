@@ -5,7 +5,7 @@
 
 <div class="content">
     <div id="vnAdMiddel1_banner1" class="banner-slider">
-        <div class="owl-slider count-slider">
+        <div> class="owl-slider count-slider">
 
                     <div class="item">
                         <a href='#'><img alt='vuon-cay-viet-banner-new.jpg' class='owl-dk cms_file'  src="{{asset('data/aditems/93/vuon-cay-viet-banner-new.jpg')}}" ></a> <a href='#'><img alt='banner-showroom-vuoncayviet-mobile-7-7.jpg' class='owl-mb' src='data/aditems/93/banner-showroom-vuoncayviet-mobile-7-7.jpg' ></a>

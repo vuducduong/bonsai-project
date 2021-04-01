@@ -28,5 +28,7 @@ class Product extends Model
     public function product_lines(){
         return $this->belongsTo(ProductLine::class);
     }
-
+    public function category_childs(){
+        return $this->belongsTo(CategoryChild::class);
+    }
 }
